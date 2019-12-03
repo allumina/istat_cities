@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C0C156CB-DD8C-4D2A-B88D-C510E2E6F35A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISTAT/Data/GeoResponse.cs">
+    <Files>
+      <File FileName="ISTAT/Program.cs" Line="156" Column="1" />
+      <File FileName="ISTAT/Model/Region.cs" Line="51" Column="10" />
+      <File FileName="ISTAT/Model/District.cs" Line="55" Column="35" />
+      <File FileName="ISTAT/Model/City.cs" Line="164" Column="31" />
+      <File FileName="ISTAT/Model/Country.cs" Line="26" Column="34" />
+      <File FileName="ISTAT/Data/istat_20190630.csv" Line="1" Column="1" />
+      <File FileName="ISTAT/Model/Base.cs" Line="17" Column="22" />
+      <File FileName="ISTAT/Data/GeoResponse.cs" Line="6" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ISTAT" expanded="True">
+            <Node name="ISTAT" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="GeoResponse.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ISTAT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gesposit/Personal/Projects/ISTAT/ISTAT/Program.cs" relfile="ISTAT/Program.cs" line="67" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
